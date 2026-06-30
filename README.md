@@ -106,6 +106,3 @@ RunbookGenAI/
 - Documentation Automation
 
 ---
-## 📄 License
-
-This project is developed for academic and educational purposes.
